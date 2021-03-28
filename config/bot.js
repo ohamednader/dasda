@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'ODI1ODI1MDQwMDk5NDQyNjg5.YGDjgA.-ouW65BTxqb59qZDeLGXZf9AIAs',
+        token: 'ODI1ODI1MDQwMDk5NDQyNjg5.YGDjgA.KtbN5CY645ZWKATsKuVggku-hU4',
         prefix: 'lil',
         activity: 'Lil Frost Up',
     },
